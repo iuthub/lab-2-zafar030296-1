@@ -1,0 +1,40 @@
+body{
+	background-color: #788B50;
+}
+
+.title-bl{
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+	background-color: #F1F1F1;
+	text-align: center;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.sub-bl{
+	height: 200px;
+}
+
+.sub-bl li:hover{
+	font-size: 14pt;
+	font-weight: bold;
+	color: #320909;
+}
+
+.img-bl img{
+	margin:5px;
+}
+
+.img-bl img:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.int-bl li>a{
+	text-decoration: none;
+	color: #575757;
+}
+
+.int-bl li>a:active{
+	color: #77644A;
+}
+
+.int-bl li>a:hover{
+	text-decoration: underline;
+}
